@@ -1,1 +1,1 @@
-# 9-SQuares-resourcepack
+# 9-SQuares resourcepack
